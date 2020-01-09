@@ -119,6 +119,10 @@ Dataset for benchmark/test/experiment/evalutation
 - [Co-Fusion](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html)
 > Martin Rünz and Lourdes Agapito. Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects. 2017 IEEE International Conference on Robotics and Automation (ICRA)
 
+- [BundleFusion](http://graphics.stanford.edu/projects/bundlefusion/)
+> Dai, Angela and Niessner, Matthias and Zollofer, Michael and Izadi, Shahram and Theobalt, Christian. BundleFusion: Real-time Globally Consistent 3D Reconstruction using
+On-the-fly Surface Re-integration. 2017 ACM Transactions on Graphics
+
 ###### RGBD and LIDAR:
 - [Google's cartographer](https://github.com/googlecartographer/cartographer). Available on ROS
 
